@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Android Studio
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about Python
-- 📫 How to reach me: Join Discord 👇
+- 📫 How to reach me: https://discord.gg/5DDPDS3f
 - ⚡ Fun fact: I'm a teenager 😎
   
 ### Connect with me:
