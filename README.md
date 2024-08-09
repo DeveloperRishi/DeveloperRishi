@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Rishi Rao</h1>
 
-- 🔭 I’m currently working on Android Studio
+- 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about Python
 - 📫 How to reach me: https://discord.gg/5DDPDS3f
