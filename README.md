@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about Python
-- 📫 How to reach me: https://discord.gg/5DDPDS3f
+- 📫 How to reach me: https://discord.gg/tpP7JqWQ
 - ⚡ Fun fact: I'm a teenager 😎
   
 ### Connect with me:
